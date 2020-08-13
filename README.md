@@ -1,17 +1,21 @@
-# Code Challenge Practice
+# CODE CHALLENGE PRACTICE
 
-A place to keep various coding challenges I have completed with solutions
+A place to keep various coding challenges I have completed with solutions.
 
-### Table of Contents
+## TABLE OF CONTENTS
 
 | JavaScript                                              |
 | ------------------------------------------------------- |
 | [Adjacent Elements Product](#adjacent-elements-product) |
 | [Two Num Sum](#two-num-sum)                             |
 
+---
+
+## PROBLEMS LIST
+
 ### Adjacent Elements Product
 
-**Taks:**
+**Task:**
 
 Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
 
@@ -21,23 +25,15 @@ Given an array of integers, find the pair of adjacent elements that has the larg
 | ---------------------- | ------ |
 | `[3, 6, -2, -5, 7, 3]` | `21`   |
 
-7 and 3 produce the largest product.
-
-Input/Output
-
-[execution time limit] 4 seconds (js)
-
-[input] array.integer inputArray
-
-An array of integers containing at least two elements.
-
-Guaranteed constraints:
+**Guaranteed constraints:**
 2 ≤ inputArray.length ≤ 10,
 -1000 ≤ inputArray[i] ≤ 1000.
 
-[output] integer
+🔗 [Link to Challenge (CodeSignal)](https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m)
 
-The largest product of adjacent elements.
+👀 [See my JavaScript Solution](https://github.com/Kristinbarr/code-challenges/blob/master/Solutions/adjacent-elements-product.js)
+
+---
 
 ### Two Num Sum
 
@@ -47,7 +43,7 @@ Given an array of integers, return indices of the two numbers such that they add
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-**For Example:**
+**Example:**
 
 | Input                                 | Output   |
 | ------------------------------------- | -------- |
@@ -57,6 +53,6 @@ You may assume that each input would have exactly one solution, and you may not 
 
 Make sure you are returning the _indicies_ of the values, not the values themselves.
 
-**Link to Challenge:** https://leetcode.com/problems/two-sum/
+🔗[Link to Challenge (LeetCode)](https://leetcode.com/problems/two-sum/)
 
-[JavaScript Solution]()
+👀 [See My JavaScript Solution](https://github.com/Kristinbarr/code-challenges/blob/master/Solutions/two-num-sum.js)
