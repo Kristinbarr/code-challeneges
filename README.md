@@ -7,7 +7,7 @@ A place to keep various coding challenges I have completed with solutions.
 | JavaScript                                              | Python                                |
 | ------------------------------------------------------- | ------------------------------------- |
 |                                                         | [Add Two Numbers](#add-two-numbers)   |
-| [Two Num Sum](#two-num-sum)                             |
+| [Two Sum](#two-sum)                                     |
 | [Adjacent Elements Product](#adjacent-elements-product) |
 |                                                         | [Next Permutation](#next-permutation) |
 
@@ -39,7 +39,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ---
 
-### Two Num Sum
+### Two Sum
 
 **Task:**
 
@@ -59,7 +59,7 @@ Make sure you are returning the _indicies_ of the values, not the values themsel
 
 🔗[Link to Challenge (LeetCode)](https://leetcode.com/problems/two-sum/)
 
-👀 [See My JavaScript Solution](https://github.com/Kristinbarr/code-challenges/blob/master/Solutions/two-num-sum.js)
+👀 [See My JavaScript Solution](https://github.com/Kristinbarr/code-challenges/blob/master/Solutions/two-sum.js)
 
 ---
 
