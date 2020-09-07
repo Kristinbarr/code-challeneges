@@ -4,15 +4,20 @@ A place to keep various coding challenges I have completed with solutions.
 
 ## TABLE OF CONTENTS
 
-| JavaScript                                              | Python                                    |
-| ------------------------------------------------------- | ----------------------------------------- |
-|                                                         | [Add Two Numbers](#add-two-numbers) |
+| JavaScript                                              | Python                                |
+| ------------------------------------------------------- | ------------------------------------- |
+|                                                         | [Add Two Numbers](#add-two-numbers)   |
 | [Two Num Sum](#two-num-sum)                             |
 | [Adjacent Elements Product](#adjacent-elements-product) |
+|                                                         | [Next Permutation](#next-permutation) |
 
 ---
 
 ## PROBLEMS LIST
+
+### Next Permutation
+
+🔗[Link to Challenge (Leetcode)](https://leetcode.com/problems/next-permutation/)
 
 ### Add Two Numbers
 
