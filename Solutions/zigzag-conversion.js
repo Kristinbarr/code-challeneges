@@ -1,3 +1,8 @@
+/**
+ * @param {string} s
+ * @param {number} numRows
+ * @return {string}
+ */
 const convert = function(s, numRows) {
   if (s.length === 1 || numRows === 1) return s   // edge cases for loop can't handle
   const rows = Array(numRows).fill('')            // create array with numRows number of strings in it, maybe another function 
