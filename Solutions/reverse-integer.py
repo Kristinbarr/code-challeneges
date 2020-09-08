@@ -1,7 +1,6 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        # save variable for negative
-        # check if negative number
+        # check if negative number and set variable
         if x < 0:
             neg = True
         else:
@@ -15,7 +14,7 @@ class Solution:
         # check if within signed integer range
         if int(num_str) > 2147483647 or int(num_str) < -2147483648:
             return 0
-        # return num
+        # if number was negative, add the minus back
         if neg:
             num_str = '-' + num_str
         return int(num_str)
