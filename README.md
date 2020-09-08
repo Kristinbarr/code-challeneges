@@ -7,7 +7,7 @@ A place to keep various coding challenges I have completed with solutions.
 | JavaScript                                              | Python                                |
 | ------------------------------------------------------- | ------------------------------------- |
 |                                                         | [Next Permutation](#next-permutation) |
-| [Reverse Integer](#reverse-integer)                     |                                       |
+| [Reverse Integer](#reverse-integer)                     | [Reverse Integer](#reverse-integer)   |
 | [Two Sum](#two-sum)                                     |                                       |
 |                                                         | [Add Two Numbers](#add-two-numbers)   |
 | [Adjacent Elements Product](#adjacent-elements-product) |                                       |
