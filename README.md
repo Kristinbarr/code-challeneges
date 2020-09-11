@@ -17,6 +17,16 @@ A place to keep various coding challenges I have completed with solutions.
 
 ## PROBLEMS LIST
 
+### Palindrome Number
+
+Task:
+
+Example:
+
+
+🔗 [Link to Challenge (Leetcode)](https://leetcode.com/problems/palindrome-number)
+
+
 ### Zigzag Conversion
 
 Task:
