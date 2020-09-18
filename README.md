@@ -6,7 +6,7 @@ A place to keep various coding challenges I have completed with solutions.
 
 | JavaScript                                              | Python                                |
 | ------------------------------------------------------- | ------------------------------------- |
-|                                                         | [Palindrom-Number](#palindrom-number) |
+|                                                         | [Palindrom Number](#palindrome-number) |
 | [Zigzag Conversion](#zigzag-conversion)                 |                                       |
 | [Next Permutation](#next-permutation)                   |                                       |
 | [Reverse Integer](#reverse-integer)                     | [Reverse Integer](#reverse-integer)   |
