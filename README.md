@@ -4,14 +4,15 @@ A place to keep various coding challenges I have completed with solutions.
 
 ## TABLE OF CONTENTS
 
-| JavaScript                                              | Python                              |
-| ------------------------------------------------------- | ----------------------------------- |
-| [Zigzag Conversion](#zigzag-conversion)                 |                                     |
-| [Next Permutation](#next-permutation)                   |                                     |
-| [Reverse Integer](#reverse-integer)                     | [Reverse Integer](#reverse-integer) |
-| [Two Sum](#two-sum)                                     |                                     |
-|                                                         | [Add Two Numbers](#add-two-numbers) |
-| [Adjacent Elements Product](#adjacent-elements-product) |                                     |
+| JavaScript                                              | Python                                |
+| ------------------------------------------------------- | ------------------------------------- |
+|                                                         | [Palindrom-Number](#palindrom-number) |
+| [Zigzag Conversion](#zigzag-conversion)                 |                                       |
+| [Next Permutation](#next-permutation)                   |                                       |
+| [Reverse Integer](#reverse-integer)                     | [Reverse Integer](#reverse-integer)   |
+| [Two Sum](#two-sum)                                     |                                       |
+|                                                         | [Add Two Numbers](#add-two-numbers)   |
+| [Adjacent Elements Product](#adjacent-elements-product) |                                       |
 
 ---
 
@@ -23,9 +24,7 @@ Task:
 
 Example:
 
-
 🔗 [Link to Challenge (Leetcode)](https://leetcode.com/problems/palindrome-number)
-
 
 ### Zigzag Conversion
 
